@@ -27,3 +27,7 @@
 //= require bootstrap/popover
 //= require turbolinks
 //= require_tree .
+
+$(document).ready(function() {
+    $(".dropdown-toggle").dropdown();
+});
