@@ -8206,8 +8206,38 @@ input {
   color: #a94442;
 }
 
+/* line 173, /home/terry/Desktop/workspace/sample_app/app/assets/stylesheets/custom.css.scss */
+.checkbox {
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+/* line 176, /home/terry/Desktop/workspace/sample_app/app/assets/stylesheets/custom.css.scss */
+.checkbox span {
+  margin-left: 20px;
+  font-weight: normal;
+}
+
+/* line 182, /home/terry/Desktop/workspace/sample_app/app/assets/stylesheets/custom.css.scss */
+#session_remember_me {
+  width: auto;
+  margin-left: 0;
+}
+
+/* Users index */
+/* line 189, /home/terry/Desktop/workspace/sample_app/app/assets/stylesheets/custom.css.scss */
+.users {
+  list-style: none;
+  margin: 0;
+}
+/* line 192, /home/terry/Desktop/workspace/sample_app/app/assets/stylesheets/custom.css.scss */
+.users li {
+  overflow: auto;
+  padding: 10px 0;
+  border-bottom: 1px solid #eeeeee;
+}
+
 /* miscellaneous */
-/* line 175, /home/terry/Desktop/workspace/sample_app/app/assets/stylesheets/custom.css.scss */
+/* line 201, /home/terry/Desktop/workspace/sample_app/app/assets/stylesheets/custom.css.scss */
 .debug_dump {
   clear: both;
   float: left;
